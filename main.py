@@ -11,3 +11,5 @@ def greet_black():
 
 
 greet()
+greet_white()
+greet_black()
